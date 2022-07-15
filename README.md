@@ -1,4 +1,4 @@
-👋  Hi, I’m @Codoner
+👋  Hi, I’m @Codoner.
 - 👀 I’m interested in C++ ...
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
