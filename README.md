@@ -1,6 +1,6 @@
 👋  Hi, I’m @Codoner.
 - 👀 I’m interested in Hacking ...
-<!-- - 🌱 I’m currently learning ... -->
+- 🌱 I’m currently learning Go
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
 
